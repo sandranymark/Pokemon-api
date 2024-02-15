@@ -30,3 +30,7 @@ body {
 .search__form-btn:hover {
     background-color: #68aef8;
 }
+
+.inforContainer__list-item li ul {
+    list-style-type: none;
+}
